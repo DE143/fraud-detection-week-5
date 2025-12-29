@@ -221,7 +221,7 @@ python scripts/train_model.py \
     --test_size 0.2 \
     --use_smote \
     --random_state 42
-    ```
+ ```
     Hyperparameter Tuning
 
 Models include grid search for:
